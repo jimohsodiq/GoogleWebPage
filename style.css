@@ -27,7 +27,7 @@ nav img{
 main{
   width: 50%;
   margin: auto;
-  margin-top: 1.2em;
+  margin-top: 2em;
   margin-bottom: 9em;
   text-align: center;
 }
@@ -90,11 +90,11 @@ footer{
 }
 
 .footer-top{
-  padding: 3em;
+  padding: 1em;
 }
 
 .footer-bottom{
-  padding: 3em;
+  padding: 1em;
   display: flex;
   justify-content: space-between;
   border-top: 1px solid gray;
